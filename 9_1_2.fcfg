@@ -1,0 +1,11 @@
+% start S
+S                    -> NP[AGR=?n] VP[AGR=?n]
+NP[AGR=?n]           -> PropN[AGR=?n]
+VP[TENSE=?t, AGR=?n] -> Cop[TENSE=?t, AGR=?n] Adj
+
+PropN[AGR=[NUM=sg, PER=3]]            -> 'she'
+PropN[AGR=[NUM=sg, PER=1]]            -> 'I'
+Cop[TENSE=pres,  AGR=[NUM=sg, PER=3]] -> 'is'
+Cop[TENSE=pres,  AGR=[NUM=sg, PER=1]] -> 'am'
+Adj                                   -> 'happy'
+

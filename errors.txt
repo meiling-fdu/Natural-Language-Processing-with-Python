@@ -1,0 +1,754 @@
+Errors for Brill Tagger None
+
+             left context |    word/test->gold     | right context
+--------------------------+------------------------+--------------------------
+                          |      Soon/NN->RB       | ,/, T-shirts/NNS *ICH*-1/
+n/IN the/DT corridors/NNS |      that/IN->WDT      | *T*-2/-NONE- carried/VBD 
+NNS that/WDT *T*-2/-NONE- |    carried/VBN->VBD    | the/DT school/NN 's/POS f
+D the/DT school/NN 's/POS |    familiar/NN->JJ     | red-and-white/JJ GHS/NNP 
+ool/NN 's/POS familiar/JJ |  red-and-white/NN->JJ  | GHS/NNP logo/NN on/IN the
+iliar/JJ red-and-white/JJ |      GHS/NN->NNP       | logo/NN on/IN the/DT fron
+/NN ,/, the/DT shirts/NNS |     read/VBP->VBD      | ,/, ``/`` We/PRP have/VBP
+,/, ``/`` We/PRP have/VBP |      all/DT->PDT       | the/DT answers/NNS ./. ''
+JJ colleagues/NNS are/VBP |      angry/NN->JJ      | at/IN Mrs./NNP Yeargin/NN
+n/NNP Rice/NNP ,/, who/WP |   *T*-100/NN->-NONE-   | had/VBD discovered/VBN th
+VBD discovered/VBN the/DT |      crib/JJ->NN       | notes/NNS ./.
+             ``/`` We/PRP |      work/NN->VBP      | damn/RB hard/RB at/IN wha
+    ``/`` We/PRP work/VBP |      damn/NN->RB       | hard/RB at/IN what/WP we/
+/IN what/WP we/PRP do/VBP |   *T*-101/NN->-NONE-   | for/IN damn/RB little/JJ 
+VBP *T*-101/-NONE- for/IN |      damn/NN->RB       | little/JJ pay/NN ,/, and/
+ for/IN damn/RB little/JJ |       pay/VB->NN       | ,/, and/CC what/WP she/PR
+  Says/VBZ *ICH*-1/-NONE- |     Gayle/NN->NNP      | Key/NNP ,/, a/DT mathemat
+ *ICH*-1/-NONE- Gayle/NNP |      Key/NN->NNP       | ,/, a/DT mathematics/NN t
+ayle/NNP Key/NNP ,/, a/DT |  mathematics/NNS->NN   | teacher/NN ,/, ``/`` The/
+``/`` The/DT incentive/NN |       pay/VB->NN       | thing/NN has/VBZ opened/V
+VBZ opened/VBN up/RP a/DT |       can/MD->NN       | of/IN worms/NNS ./.
+P *EXP*-2/-NONE- would/MD |       no/DT->RB        | longer/RBR be/VB possible
+*-2/-NONE- would/MD no/RB |    longer/JJR->RBR     | be/VB possible/JJ *-1/-NO
+ecause/IN she/PRP was/VBD |     afraid/NN->JJ      | of/IN further/JJ charges/
+P was/VBD afraid/JJ of/IN |    further/RBR->JJ     | charges/NNS ./.
+for/IN one/CD ,/, was/VBD |    relieved/VBN->JJ    | ./.
+hat/IN ``/`` I/PRP 'm/VBP |     afraid/NN->JJ      | 0/-NONE- a/DT jury/NN wou
+/RB have/VB convicted/VBN |     her/PRP$->PRP      | ./.
+to/TO know/VB :/: What/WP |      's/POS->VBZ       | *T*-2/-NONE- on/IN the/DT
+E- in/IN the/DT weeks/NNS |      prior/NN->RB      | to/TO */-NONE- taking/VBG
+                   The/DT |  mathematics/NNS->NN   | section/NN of/IN the/DT w
+NN of/IN the/DT widely/RB |      used/VBN->JJ      | California/NNP Achievemen
+RB used/JJ California/NNP |  Achievement/NN->NNP   | Test/NNP asks/VBZ fifth/J
+ornia/NNP Achievement/NNP |      Test/NN->NNP      | asks/VBZ fifth/JJ graders
+/DT name/NN for/IN the/DT |      Roman/NN->JJ      | numeral/NN IX/CD ?/. ''/'
+he/DT Roman/JJ numeral/NN |       IX/NN->CD        | ?/. ''/''
+Worksheets/NNS in/IN a/DT |  test-practice/NN->JJ  | kit/NN called/VBN */-NONE
+ublishing/NNP Co./NNP ,/, |    contain/VB->VBP     | the/DT same/JJ questions/
+                  What/WP |   *T*-102/NN->-NONE-   | 's/VBZ more/JJR ,/, the/D
+   What/WP *T*-102/-NONE- |      's/POS->VBZ       | more/JJR ,/, the/DT test/
+/WP *T*-102/-NONE- 's/VBZ |     more/RBR->JJR      | ,/, the/DT test/NN and/CC
+/NNP 's/POS parent/NN ,/, |    Britain/NN->NNP     | 's/POS Maxwell/NNP Commun
+in/NNP 's/POS Maxwell/NNP | Communication/NN->NNP  | Corp/NNP ./.
+                          |      Close/NN->JJ      | parallels/NNS between/IN 
+                          | Test-preparation/NN->JJ | booklets/NNS ,/, software
+nt/VBP a/DT form/NN of/IN | school-sponsored/VBD->JJ | cheating/NN ./.
+VBZ *T*-2/-NONE- John/NNP |    Kaminski/NN->NNP    | ,/, a/DT Traverse/NNP Cit
+NNP Kaminski/NNP ,/, a/DT |    Traverse/NN->NNP    | City/NNP ,/, Mich./NNP ,/
+Traverse/NNP City/NNP ,/, |     Mich./NN->NNP      | ,/, teacher/NN who/WP *T*
+NNP ,/, teacher/NN who/WP |   *T*-103/NN->-NONE-   | has/VBZ studied/VBN test/
+s/VBZ studied/VBN test/NN |    coaching/VBG->NN    | ./.
+ say/VBP 0/-NONE- such/JJ |    coaching/VBG->NN    | aids/NNS can/MD defeat/VB
+J tests/NNS ,/, which/WDT |   *T*-104/NN->-NONE-   | is/VBZ */-NONE- to/TO gau
+Z */-NONE- to/TO gauge/VB |    learning/VBG->NN    | progress/NN ./.
+ *-1/-NONE- to/TO give/VB |      only/RB->JJ       | French/JJ history/NN ques
+/CC when/WRB everybody/NN |     aces/NNS->VBZ      | the/DT test/NN *T*-3/-NON
+ucation/NNP ,/, which/WDT |   *T*-105/NN->-NONE-   | has/VBZ studied/VBN stand
+                          |  Standardized/VBD->JJ  | achievement/NN tests/NNS 
+indergarten/NN through/IN |     eighth/NN->JJ      | grade/NN ./.
+                   The/DT |     most/JJS->RBS      | widely/RB used/JJ of/IN t
+The/DT most/RBS widely/RB |      used/VBN->JJ      | of/IN these/DT tests/NNS 
+hese/DT tests/NNS are/VBP | Macmillan\/McGraw/NN->NNP | 's/POS CAT/NNP and/CC Com
+millan\/McGraw/NNP 's/POS |      CAT/NN->NNP       | and/CC Comprehensive/NNP 
+NNP 's/POS CAT/NNP and/CC | Comprehensive/JJ->NNP  | Test/NN of/IN Basic/JJ Sk
+/JJ Skills/NNS ;/: the/DT |      Iowa/NN->NNP      | Test/NN of/IN Basic/JJ Sk
+c/JJ Skills/NNS ,/, by/IN |    Houghton/NN->NNP    | Mifflin/NNP Co./NNP ;/: a
+NS ,/, by/IN Houghton/NNP |    Mifflin/NN->NNP     | Co./NNP ;/: and/CC Harcou
+in/NNP Co./NNP ;/: and/CC |    Harcourt/NN->NNP    | Brace/NNP Jovanovich/NNP 
+P ;/: and/CC Harcourt/NNP |     Brace/NN->NNP      | Jovanovich/NNP Inc./NNP '
+CC Harcourt/NNP Brace/NNP |   Jovanovich/NN->NNP   | Inc./NNP 's/POS Metropoli
+ovich/NNP Inc./NNP 's/POS |  Metropolitan/NN->NNP  | Achievement/NNP Test/NNP 
+P 's/POS Metropolitan/NNP |  Achievement/NN->NNP   | Test/NNP and/CC Stanford/
+litan/NNP Achievement/NNP |      Test/NN->NNP      | and/CC Stanford/NNP Achie
+t/NNP and/CC Stanford/NNP |  Achievement/NN->NNP   | Test/NNP ./.
+nford/NNP Achievement/NNP |      Test/NN->NNP      | ./.
+ figures/NNS of/IN the/DT |    test-prep/NN->JJ    | materials/NNS are/VBP n't
+erials/NNS are/VBP n't/RB |     known/VBN->JJ      | *-1/-NONE- ,/, but/CC the
+NE- ,/, but/CC their/PRP$ |      reach/VB->NN      | into/IN schools/NNS is/VB
+                    In/IN |    Arizona/NN->NNP     | ,/, California/NNP ,/, Fl
+NP ,/, California/NNP ,/, |    Florida/NN->NNP     | ,/, Louisiana/NNP ,/, Mar
+a/NNP ,/, Florida/NNP ,/, |   Louisiana/NN->NNP    | ,/, Maryland/NNP ,/, New/
+NNP ,/, Louisiana/NNP ,/, |    Maryland/NN->NNP    | ,/, New/NNP Jersey/NNP ,/
+PRP$ Scoring/NNP High/NNP | test-preparation/NN->JJ | books/NNS have/VBP been/V
+uction/NN 10/CD years/NNS |       ago/IN->RB       | ,/, with/IN most/JJS sale
+terials/NNS in/IN each/DT |      set/VBN->NN       | reach/VBP about/IN 90/CD 
+/NNS in/IN each/DT set/NN |     reach/VB->VBP      | about/IN 90/CD students/N
+rials/NNPS are/VBP the/DT | best-selling/VBG->JJS  | preparation/NN tests/NNS 
+              Michael/NNP |      Kean/NN->NNP      | ,/, director/NN of/IN mar
+of/IN marketing/NN for/IN |      CTB/NN->NNP       | Macmillan\/McGraw/NNP ,/,
+rketing/NN for/IN CTB/NNP | Macmillan\/McGraw/NN->NNP | ,/, the/DT Macmillan\/McG
+an\/McGraw/NNP ,/, the/DT | Macmillan\/McGraw/NN->NNP | division/NN that/WDT *T*-
+n\/McGraw/NNP division/NN |      that/IN->WDT      | *T*-106/-NONE- publishes/
+/NNP division/NN that/WDT |   *T*-106/NN->-NONE-   | publishes/VBZ Learning/NN
+N that/WDT *T*-106/-NONE- |   publishes/NNS->VBZ   | Learning/NNP Materials/NN
+ONE- it/PRP is/VBZ n't/RB |     aimed/VBD->VBN     | *-1/-NONE- at/IN */-NONE-
+tions/NNS were/VBD n't/RB |  replicated/VBD->VBN   | *-1/-NONE- ./.
+        When/WRB */-NONE- |   referred/VBD->VBN    | *-2/-NONE- to/TO the/DT q
+o/TO the/DT questions/NNS |      that/IN->WDT      | *T*-107/-NONE- matched/VB
+DT questions/NNS that/WDT |   *T*-107/NN->-NONE-   | matched/VBN *T*-1/-NONE- 
+S that/WDT *T*-107/-NONE- |    matched/VBD->VBN    | *T*-1/-NONE- ,/, he/PRP s
+D 0/-NONE- it/PRP was/VBD |  coincidental/NN->JJ   | ./.
+                  Mr./NNP |    Kaminski/NN->NNP    | ,/, the/DT schoolteacher/
+NN ,/, and/CC William/NNP |    Mehrens/NNS->NNP    | ,/, a/DT Michigan/NNP Sta
+/NNP Mehrens/NNP ,/, a/DT |    Michigan/NN->NNP    | State/NNP University/NNP 
+ last/JJ June/NNP that/IN |      CAT/NN->NNP       | test/NN versions/NNS of/I
+They/PRP devised/VBD a/DT |    69-point/NN->JJ     | scale/NN --/: *-1/-NONE- 
+VBN */-NONE- on/IN the/DT |      CAT/NN->NNP       | test/NN --/: *-1/-NONE- t
+/TO the/DT fifth-grade/NN |      CAT/NN->NNP       | ./.
+ese/DT subskills/NNS --/: |       the/DT->JJ       | symmetry/NN of/IN geometr
+ the/JJ symmetry/NN of/IN |   geometrical/NN->JJ   | figures/NNS ,/, metric/JJ
+trical/JJ figures/NNS ,/, |     metric/NN->JJ      | measurement/NN of/IN volu
+/, for/IN example/NN --/: |      are/VBP->NN       | only/RB a/DT small/JJ par
+l/JJ part/NN of/IN the/DT |      total/NN->JJ      | fifth-grade/NN curriculum
+curriculum/NN ,/, Mr./NNP |    Kaminski/NN->NNP    | says/VBZ 0/-NONE- *T*-1/-
+ kits/NNS would/MD n't/RB |    replicate/NN->VB    | too/RB many/JJ ,/, if/IN 
+                    In/IN |      CAT/NN->NNP       | sections/NNS where/WRB st
+ '/POS knowledge/NN of/IN |   two-letter/NN->JJ    | consonant/JJ sounds/NNS i
+ge/NN of/IN two-letter/JJ |    consonant/NN->JJ    | sounds/NNS is/VBZ tested/
+/-NONE- *T*-4/-NONE- --/: |       to/TO->IN        | the/DT exclusion/NN of/IN
+/IN the/DT fifth-grade/NN |   contains/NNS->VBZ    | at/IN least/JJS a/DT doze
+xact/JJ matches/NNS or/CC |      close/VB->JJ      | parallels/NNS to/TO test/
+                          |      Rick/NN->NNP      | Brownell/NNP ,/, senior/J
+                 Rick/NNP |    Brownell/NN->NNP    | ,/, senior/JJ editor/NN o
+/NNP ,/, says/VBZ that/IN |   Messrs./NNP->NNPS    | Kaminski/NNP and/CC Mehre
+/VBZ that/IN Messrs./NNPS |    Kaminski/NN->NNP    | and/CC Mehrens/NNP are/VB
+/NNPS Kaminski/NNP and/CC |    Mehrens/NNS->NNP    | are/VBP ignoring/VBG ``/`
+ignoring/VBG ``/`` the/DT |      need/VBD->NN      | 0/-NONE- students/NNS hav
+/IN */-NONE- becoming/VBG |    familiar/NN->JJ     | with/IN tests/NNS and/CC 
+NNP ``/`` scrupulously/RB |     avoid/VB->VBP      | ''/'' *-1/-NONE- replicat
+CC he/PRP does/VBZ n't/RB |      deny/NN->VB       | that/IN some/DT items/NNS
+a/DT publication/NN of/IN |     Random/NN->NNP     | House/NNP ./.
+  McGraw-Hill/NNP was/VBD |    outraged/VBN->JJ    | ./.
+epresented/VBD a/DT ``/`` |    parallel/VB->JJ     | form/NN ''/'' of/IN the/D
+orm/NN ''/'' of/IN the/DT |      CAT/NN->NNP       | and/CC CTBS/NNP tests/NNS
+/IN the/DT CAT/NNP and/CC |      CTBS/NN->NNP      | tests/NNS ./.
+/NNP purchased/VBD the/DT |     Random/NN->NNP     | House/NNP unit/NN that/WD
+dom/NNP House/NNP unit/NN |      that/IN->WDT      | *T*-108/-NONE- publishes/
+ouse/NNP unit/NN that/WDT |   *T*-108/NN->-NONE-   | publishes/VBZ Scoring/NNP
+N that/WDT *T*-108/-NONE- |   publishes/NNS->VBZ   | Scoring/NNP High/NNP ,/, 
+NP High/NNP ,/, which/WDT |   *T*-109/NN->-NONE-   | later/RBR became/VBD part
+ which/WDT *T*-109/-NONE- |     later/RB->RBR      | became/VBD part/NN of/IN 
+ became/VBD part/NN of/IN | Macmillan\/McGraw/NN->NNP | ./.
+                          |   Messrs./NNP->NNPS    | Brownell/NNP and/CC Kean/
+             Messrs./NNPS |    Brownell/NN->NNP    | and/CC Kean/NNP say/VBP 0
+/NNPS Brownell/NNP and/CC |      Kean/NN->NNP      | say/VBP 0/-NONE- they/PRP
+0/-NONE- they/PRP are/VBP |     unaware/NN->JJ     | of/IN any/DT efforts/NNS 
+NE- to/TO modify/VB or/CC |   discontinue/NN->VB   | Scoring/NNP High/NNP ./.
+                          |   Alleghany/NN->NNP    | Corp./NNP said/VBD 0/-NON
+e/DT acquisition/NN of/IN |   Sacramento/NN->NNP   | Savings/NNPS &/CC Loan/NN
+n/NN of/IN Sacramento/NNP |   Savings/NNS->NNPS    | &/CC Loan/NNP Association
+nto/NNP Savings/NNPS &/CC |      Loan/NN->NNP      | Association/NNP from/IN t
+iation/NNP from/IN the/DT |      H.N./NN->NNP      | &/CC Frances/NNP C./NNP B
+m/IN the/DT H.N./NNP &/CC |    Frances/NNS->NNP    | C./NNP Berger/NNP Foundat
+H.N./NNP &/CC Frances/NNP |       C./NN->NNP       | Berger/NNP Foundation/NNP
+P &/CC Frances/NNP C./NNP |     Berger/NN->NNP     | Foundation/NNP for/IN $/$
+ces/NNP C./NNP Berger/NNP |   Foundation/NN->NNP   | for/IN $/$ 150/CD million
+                   The/DT | Sacramento-based/VBD->JJ | S&L/NN ,/, which/WDT *T*-
+d/JJ S&L/NN ,/, which/WDT |   *T*-110/NN->-NONE-   | has/VBZ 44/CD branch/NN o
+anch/NN offices/NNS in/IN |      north/NN->JJ      | central/JJ California/NNP
+ffices/NNS in/IN north/JJ |     central/NN->JJ     | California/NNP ,/, had/VB
+    New/NNP York-based/JJ |   Alleghany/NN->NNP    | is/VBZ an/DT insurance/NN
+ce/NN includes/VBZ two/CD |    ancillary/NN->JJ    | companies/NNS ./.
+P of/IN Health/NNP and/CC |     Human/NN->NNP      | Services/NNPS plans/VBZ *
+alth/NNP and/CC Human/NNP |   Services/NNS->NNPS   | plans/VBZ *-1/-NONE- to/T
+C Human/NNP Services/NNPS |     plans/NNS->VBZ     | *-1/-NONE- to/TO extend/V
+research/NN involving/VBG |  fetal-tissue/NN->JJ   | transplants/NNS ./.
+                          |     Medical/NN->JJ     | researchers/NNS believe/V
+mall/JJ amounts/NNS of/IN |      fetal/NN->JJ      | tissue/NN into/IN humans/
+help/VB */-NONE- treat/VB |    juvenile/NN->JJ     | diabetes/NN and/CC such/J
+ONE- treat/VB juvenile/JJ |    diabetes/NNS->NN    | and/CC such/JJ degenerati
+iabetes/NN and/CC such/JJ |  degenerative/NN->JJ   | diseases/NNS as/IN Alzhei
+ive/JJ diseases/NNS as/IN |   Alzheimer/NN->NNP    | 's/POS ,/, Parkinson/NNP 
+ Alzheimer/NNP 's/POS ,/, |   Parkinson/NN->NNP    | 's/POS and/CC Huntington/
+rkinson/NNP 's/POS and/CC |   Huntington/NN->NNP   | 's/POS ./.
+/CC anti-abortionists/NNS |     oppose/NN->VBP     | such/JJ research/NN becau
+N therapies/NNS using/VBG |  fetal-tissue/NN->JJ   | transplants/NNS could/MD 
+                James/NNP |     Mason/NN->NNP      | ,/, assistant/NN secretar
+  James/NNP Mason/NNP ,/, |    assistant/JJ->NN    | secretary/NN for/IN healt
+deral/JJ funding/NN of/IN |  fetal-tissue/NN->JJ   | transplant/NN research/NN
+BD 0/-NONE- the/DT ban/NN |       wo/NN->MD        | n't/RB stop/VB privately/
+he/DT ban/NN wo/MD n't/RB |      stop/NN->VB       | privately/RB funded/VBN t
+t/RB stop/VB privately/RB |    funded/VBD->VBN     | tissue-transplant/JJ rese
+B privately/RB funded/VBN | tissue-transplant/NN->JJ | research/NN or/CC federal
+rch/NN or/CC federally/RB |    funded/VBD->VBN     | fetal-tissue/JJ research/
+C federally/RB funded/VBN |  fetal-tissue/NN->JJ   | research/NN that/WDT *T*-
+tal-tissue/JJ research/NN |      that/IN->WDT      | *T*-111/-NONE- does/VBZ n
+e/JJ research/NN that/WDT |   *T*-111/NN->-NONE-   | does/VBZ n't/RB involve/V
+11/-NONE- does/VBZ n't/RB |     involve/NN->VB     | transplants/NNS ./.
+                          |   Department/NNP->NN   | officials/NNS say/VBP tha
+cials/NNS say/VBP that/IN |      HHS/NN->NNP       | Secretary/NNP Louis/NNP S
+/IN HHS/NNP Secretary/NNP |     Louis/NNS->NNP     | Sullivan/NNP will/MD supp
+P Secretary/NNP Louis/NNP |    Sullivan/NN->NNP    | will/MD support/VB Dr./NN
+ill/MD support/VB Dr./NNP |     Mason/NN->NNP      | 's/POS ruling/NN ,/, whic
+S ruling/NN ,/, which/WDT |   *T*-112/NN->-NONE-   | will/MD be/VB issued/VBN 
+DT letter/NN to/TO the/DT |     acting/VBG->JJ     | director/NN of/IN the/DT 
+of/IN the/DT National/NNP |  Institutes/NNS->NNPS  | of/IN Health/NNP ./.
+          Both/DT Dr./NNP |     Mason/NN->NNP      | and/CC Dr./NNP Sullivan/N
+ Mason/NNP and/CC Dr./NNP |    Sullivan/NN->NNP    | oppose/VBP federal/JJ fun
+d/CC Dr./NNP Sullivan/NNP |     oppose/NN->VBP     | federal/JJ funding/NN for
+n/WRB the/DT National/NNP |  Institutes/NNS->NNPS  | of/IN Health/NNP ,/, awar
+/, asked/VBD for/IN an/DT |      HHS/NN->NNP       | review/NN of/IN its/PRP$ 
+*/-NONE- to/TO implant/VB |      fetal/NN->JJ      | tissue/NN into/IN the/DT 
+/NN of/IN a/DT patient/NN |   suffering/VBG->NN    | from/IN Parkinson/NNPS 's
+t/NN suffering/NN from/IN |   Parkinson/NN->NNPS   | 's/POS disease/NN *T*-1/-
+/VBG a/DT review/NN of/IN |   scientific/NN->JJ    | ,/, legal/JJ and/CC ethic
+ic/JJ ,/, legal/JJ and/CC |     ethical/NN->JJ     | issues/NNS ./.
+T majority/NN of/IN an/DT | NIH-appointed/VBD->JJ  | panel/NN recommended/VBD 
+ panel/NN recommended/VBD |      late/JJ->RB       | last/JJ year/NN that/IN t
+/VB under/IN carefully/RB |   controlled/VBD->JJ   | conditions/NNS ,/, but/CC
+ embroiled/VBN *-2/-NONE- |       in/RB->IN        | politics/NNS as/IN anti-a
+ in/IN politics/NNS as/IN |  anti-abortion/NN->JJ  | groups/NNS continued/VBD 
+*/-NONE- to/TO recruit/VB |    prominent/NN->JJ    | doctors/NNS 0/-NONE- *T*-
+T*-1/-NONE- to/TO fill/VB |  prestigious/NNS->JJ   | posts/NNS at/IN the/DT he
+TO fill/VB prestigious/JJ |     posts/VBZ->NNS     | at/IN the/DT helm/NN of/I
+e/DT helm/NN of/IN the/DT |      NIH/NN->NNP       | and/CC the/DT Centers/NNP
+/DT NIH/NNP and/CC the/DT |   Centers/NNS->NNPS    | for/IN Disease/NNP Contro
+he/DT Centers/NNPS for/IN |    Disease/NN->NNP     | Control/NNP ./.
+s/NNPS for/IN Disease/NNP |    Control/NN->NNP     | ./.
+                          |     Several/NN->JJ     | candidates/NNS have/VBP w
+J candidates/NNS have/VBP |   withdrawn/NN->VBN    | their/PRP$ names/NNS from
+ on/IN abortion/NN and/CC |  fetal-tissue/NN->JJ   | transplants/NNS ./.
+                          |    Antonio/NN->NNP     | Novello/NNP ,/, whom/WP M
+              Antonio/NNP |    Novello/NN->NNP     | ,/, whom/WP Mr./NNP Bush/
+NP Bush/NNP nominated/VBD |   *T*-113/NN->-NONE-   | to/TO serve/VB as/IN surg
+/VBD *T*-113/-NONE- to/TO |      serve/NN->VB      | as/IN surgeon/NN general/
+serve/VB as/IN surgeon/NN |     general/JJ->NN     | ,/, reportedly/RB has/VBZ
+ration/NN that/IN she/PRP |    opposes/NNS->VBZ    | abortion/NN ./.
+                  Dr./NNP |    Novello/NN->NNP     | is/VBZ deputy/NN director
+l/NNP Institute/NNP of/IN |     Child/NN->NNP      | Health/NNP and/CC Human/N
+ild/NNP Health/NNP and/CC |     Human/NN->NNP      | Development/NNP ./.
+alth/NNP and/CC Human/NNP |  Development/NN->NNP   | ./.
+s/VBZ imposing/VBG new/JJ |   ideological/NN->JJ   | tests/NNS for/IN top/JJ s
+J tests/NNS for/IN top/JJ |   scientific/NN->JJ    | posts/NNS ./.
+r/IN top/JJ scientific/JJ |     posts/VBZ->NNS     | ./.
+is/DT week/NN ,/, Dr./NNP |    Sullivan/NN->NNP    | tried/VBD *-1/-NONE- to/T
+ONE- to/TO head/VB the/DT |      NIH/NN->NNP       | and/CC the/DT CDC/NNP wil
+/DT NIH/NNP and/CC the/DT |      CDC/NN->NNP       | will/MD be/VB judged/VBN 
+``/`` standards/NNS of/IN |   scientific/NN->JJ    | and/CC administrative/JJ 
+ handling/NN of/IN the/DT |  fetal-tissue/NN->JJ   | transplant/NN issue/NN di
+JJ transplant/NN issue/NN |   disturbs/NNS->VBZ    | many/JJ scientists/NNS ./
+           ``/`` When/WRB |   scientific/NN->JJ    | progress/NN moves/VBZ int
+scientific/JJ progress/NN |     moves/NNS->VBZ     | into/IN uncharted/JJ grou
+ress/NN moves/VBZ into/IN |   uncharted/VBD->JJ    | ground/NN *T*-1/-NONE- ,/
+ to/TO be/VB a/DT role/NN |   *ICH*-4/NN->-NONE-   | for/IN society/NN */-NONE
+/'' says/VBZ *T*-2/-NONE- |     Myron/NN->NNP      | Genel/NNP ,/, associate/N
+BZ *T*-2/-NONE- Myron/NNP |     Genel/NN->NNP      | ,/, associate/NN dean/NN 
+e/NN dean/NN of/IN the/DT |      Yale/NN->NNP      | Medical/NNP School/NNP ./
+/NN of/IN the/DT Yale/NNP |    Medical/NN->NNP     | School/NNP ./.
+arized/VBN *-1/-NONE- ,/, |       so/RB->IN        | that/IN no/DT mechanism/N
+chanism/NN *ICH*-2/-NONE- |    exists/NNS->VBZ     | ''/'' for/IN */-NONE- fin
+VBZ ''/'' for/IN */-NONE- |    finding/NN->VBG     | a/DT middle/JJ ground/NN 
+*/-NONE- finding/VBG a/DT |     middle/NN->JJ      | ground/NN ./.
+                          |      Yale/NN->NNP      | is/VBZ one/CD of/IN the/D
+nducting/VBG privately/RB |     funded/VBD->JJ     | research/NN on/IN fetal-t
+nded/JJ research/NN on/IN |  fetal-tissue/NN->JJ   | transplants/NNS ./.
+           But/CC Dr./NNP |     Genel/NN->NNP      | warns/VBZ that/IN Dr./NNP
+ But/CC Dr./NNP Genel/NNP |     warns/NNS->VBZ     | that/IN Dr./NNP Mason/NNP
+warns/VBZ that/IN Dr./NNP |     Mason/NN->NNP      | 's/POS ruling/NN may/MD d
+/CD of/IN the/DT more/RBR |     visible/NN->JJ     | foundations/NNS to/TO pro
+research/NN involving/VBG |      fetal/NN->JJ      | tissues/NNS will/MD conti
+h/NN may/MD ultimately/RB |     result/NN->VB      | in/IN the/DT ability/NN *
+NONE- to/TO regenerate/VB |    damaged/VBD->JJ     | tissues/NNS or/CC */-NONE
+ turn/VB off/RP genes/NNS |      that/IN->WDT      | *T*-114/-NONE- cause/VBP 
+off/RP genes/NNS that/WDT |   *T*-114/NN->-NONE-   | cause/VBP cancer/NN ''/''
+S that/WDT *T*-114/-NONE- |     cause/NN->VBP      | cancer/NN ''/'' or/CC */-
+/TO regulate/VB genes/NNS |      that/IN->WDT      | *T*-115/-NONE- cause/VBP 
+ate/VB genes/NNS that/WDT |   *T*-115/NN->-NONE-   | cause/VBP Down/NNP 's/POS
+S that/WDT *T*-115/-NONE- |     cause/NN->VBP      | Down/NNP 's/POS syndrome/
+ *T*-115/-NONE- cause/VBP |      Down/NN->NNP      | 's/POS syndrome/NN ,/, th
+eading/VBG cause/NN of/IN |     mental/NN->JJ      | retardation/NN ,/, accord
+according/VBG to/TO an/DT |      NIH/NN->NNP       | summary/NN ./.
+                   The/DT |      NIH/NN->NNP       | currently/RB spends/VBZ a
+/-NONE- annually/RB on/IN |  fetal-tissue/NN->JJ   | research/NN out/IN of/IN 
+tal-tissue/JJ research/NN |       out/RP->IN       | of/IN a/DT total/JJ resea
+arch/NN out/IN of/IN a/DT |      total/NN->JJ      | research/NN budget/NN of/
+                          |   Rekindled/VBD->VBN   | hope/NN that/IN two/CD Ne
+            Rekindled/VBN |      hope/VB->NN       | that/IN two/CD New/NNP En
+l/MD allow/VB broader/JJR |   interstate/NN->JJ    | banking/NN boosted/VBD Na
+broader/JJR interstate/JJ |    banking/VBG->NN     | boosted/VBD Nasdaq/NNP 's
+ interstate/JJ banking/NN |    boosted/VBN->VBD    | Nasdaq/NNP 's/POS bank/NN
+cks/NNS ,/, but/CC the/DT | over-the-counter/NN->JJ | market/NN was/VBD up/RB o
+nter/JJ market/NN was/VBD |       up/RP->RB        | only/RB slightly/RB in/IN
+only/RB slightly/RB in/IN |   lackluster/NN->JJ    | trading/NN ./.
+/CD to/TO 456.64/CD on/IN |     paltry/NN->JJ      | volume/NN of/IN 118.6/CD 
+ ,/, it/PRP was/VBD an/DT |  inauspicious/NNS->JJ  | beginning/NN for/IN Novem
+VBD an/DT inauspicious/JJ |   beginning/VBG->NN    | for/IN November/NNP ./.
+/IN the/DT year/NN 's/POS |      daily/RB->JJ      | average/NN of/IN 133.8/CD
+T year/NN 's/POS daily/JJ |     average/JJ->NN     | of/IN 133.8/CD million/CD
+IN October/NNP ,/, the/DT |    busiest/NN->JJS     | month/NN of/IN the/DT yea
+f/IN the/DT year/NN so/RB |       far/RB->JJ       | ,/, daily/JJ volume/NN av
+ year/NN so/RB far/JJ ,/, |      daily/RB->JJ      | volume/NN averaged/VBD ro
+/CD index/NN of/IN the/DT |    biggest/NN->JJS     | nonfinancial/JJ stocks/NN
+ of/IN the/DT biggest/JJS |  nonfinancial/NN->JJ   | stocks/NNS gained/VBD 1.3
+NN index/NN ,/, which/WDT |   *T*-116/NN->-NONE-   | tracks/VBZ thrift/NN issu
+ which/WDT *T*-116/-NONE- |    tracks/NNS->VBZ     | thrift/NN issues/NNS ,/, 
+ thrift/NN issues/NNS ,/, |    jumped/VBN->VBD     | 3.23/CD to/TO 436.01/CD .
+BD a/DT boost/NN when/WRB |  Connecticut/NN->NNP   | Bank/NNP &/CC Trust/NNP a
+ecticut/NNP Bank/NNP &/CC |     Trust/NN->NNP      | and/CC Bank/NNP of/IN New
+aid/VBD 0/-NONE- they/PRP |       no/DT->RB        | longer/RB oppose/VBP pend
+D 0/-NONE- they/PRP no/RB |     longer/JJR->RB     | oppose/VBP pending/VBG le
+ they/PRP no/RB longer/RB |     oppose/NN->VBP     | pending/VBG legislation/N
+ther/JJ regions/NNS to/TO |      merge/NN->VB      | with/IN Connecticut/NNP a
+NS to/TO merge/VB with/IN |  Connecticut/NN->NNP   | and/CC Massachusetts/NNP 
+IN Connecticut/NNP and/CC | Massachusetts/NNS->NNP | banks/NNS *T*-2/-NONE- ./
+ based/VBN */-NONE- in/IN | Massachusetts/NNS->NNP | were/VBD n't/RB helped/VB
+NONE- making/VBG them/PRP |  unattractive/NN->JJ   | takeover/NN targets/NNS .
+ anticipating/VBG that/IN |  Connecticut/NN->NNP   | will/MD approve/VB a/DT l
+NN permitting/VBG such/JJ |   interstate/NN->JJ    | banking/NN soon/RB ,/, im
+VBG such/JJ interstate/JJ |    banking/VBG->NN     | soon/RB ,/, immediately/R
+oon/RB ,/, immediately/RB |      bid/NN->VBD       | up/RP shares/NNS of/IN Co
+BD up/RP shares/NNS of/IN |  Connecticut/NN->NNP   | banks/NNS on/IN the/DT ne
+N of/IN the/DT stocks/NNS |      that/IN->WDT      | *T*-117/-NONE- have/VBP b
+he/DT stocks/NNS that/WDT |   *T*-117/NN->-NONE-   | have/VBP been/VBN under/I
+er/IN water/NN finally/RB |      saw/NN->VBD       | a/DT reason/NN 0/-NONE- *
+D *T*-2/-NONE- George/NNP |    Jennison/NN->NNP    | ,/, head/JJ trader/NN of/
+orge/NNP Jennison/NNP ,/, |      head/NN->JJ       | trader/NN of/IN banking/N
+, head/JJ trader/NN of/IN |    banking/VBG->NN     | issues/NNS in/IN Shearson
+man/NNP Hutton/NNP 's/POS |      OTC/NN->NNP       | department/NN ./.
+                   The/DT |    biggest/NN->JJS     | beneficiary/NN was/VBD No
+/NN was/VBD Northeast/NNP |    Bancorp/NN->NNP     | ,/, which/WDT *T*-118/-NO
+Bancorp/NNP ,/, which/WDT |   *T*-118/NN->-NONE-   | surged/VBD 7/CD 3\/4/CD t
+18/-NONE- surged/VBD 7/CD |      3\/4/NN->CD       | to/TO 69/CD ./.
+VBZ agreed/VBN to/TO a/DT |     buy-out/JJ->NN     | by/IN Bank/NNP of/IN New/
+nsaction/NN with/IN an/DT |   indicated/VBD->VBN   | value/NN of/IN about/IN $
+ *U*/-NONE- a/DT share/NN |      that/IN->WDT      | *T*-119/-NONE- expires/VB
+E- a/DT share/NN that/WDT |   *T*-119/NN->-NONE-   | expires/VBZ next/JJ Augus
+N that/WDT *T*-119/-NONE- |    expires/NNS->VBZ    | next/JJ August/NNP ./.
+                          |       Ed/NN->NNP       | Macheski/NNP ,/, a/DT Wil
+                   Ed/NNP |    Macheski/NN->NNP    | ,/, a/DT Wilton/NNP ,/, C
+NNP Macheski/NNP ,/, a/DT |     Wilton/NN->NNP     | ,/, Conn./NNP ,/, money/N
+oney/NN manager/NN who/WP |   *T*-120/NN->-NONE-   | follows/VBZ bank/NN stock
+e/DT deal/NN ``/`` the/DT |      green/NN->JJ      | light/NN ./. ''/''
+                  Mr./NNP |    Jennison/NN->NNP    | said/VBD 0/-NONE- Northea
+BD 0/-NONE- Northeast/NNP |    Bancorp/NN->NNP     | also/RB fared/VBD well/RB
+ve/VBP returned/VBN to/TO |      favor/NN->VB      | among/IN investors/NNS ./
+               Another/DT |      OTC/NN->NNP       | bank/NN stock/NN involved
+d/VBN */-NONE- in/IN a/DT |     buy-out/JJ->NN     | deal/NN ,/, First/NNP Con
+/NN deal/NN ,/, First/NNP |  Constitution/NN->NNP  | Financial/NNP ,/, was/VBD
+          It/PRP rose/VBD |      7\/8/NN->CD       | to/TO 18/CD 1\/4/CD ./.
+e/VBD 7\/8/CD to/TO 18/CD |      1\/4/NN->CD       | ./.
+                First/NNP |  Constitution/NN->NNP  | has/VBZ signed/VBN a/DT m
+NN *ICH*-1/-NONE- with/IN |      WFRR/NN->NNP      | L.P./NNP and/CC GHKM/NNP 
+1/-NONE- with/IN WFRR/NNP |      L.P./NN->NNP      | and/CC GHKM/NNP Corp./NNP
+ WFRR/NNP L.P./NNP and/CC |      GHKM/NN->NNP      | Corp./NNP ,/, under/IN wh
+        Among/IN other/JJ |  Connecticut/NN->NNP   | banks/NNS whose/WP$ share
+/NNS whose/WP$ shares/NNS |   *T*-121/NN->-NONE-   | trade/VBP in/IN the/DT OT
+shares/NNS *T*-121/-NONE- |     trade/NN->VBP      | in/IN the/DT OTC/NNP mark
+E- trade/VBP in/IN the/DT |      OTC/NN->NNP       | market/NN ,/, Society/NNP
+NN ,/, Society/NNP for/IN |   Savings/NNS->NNPS    | Bancorp/NNP ,/, based/VBN
+y/NNP for/IN Savings/NNPS |    Bancorp/NN->NNP     | ,/, based/VBN */-NONE- in
+E- in/IN Hartford/NNP ,/, |      saw/NN->VBD       | its/PRP$ stock/NN rise/VB
+RP$ stock/NN rise/VB 1/CD |      3\/4/NN->CD       | to/TO 18/CD 1\/4/CD ./.
+ 1/CD 3\/4/CD to/TO 18/CD |      1\/4/NN->CD       | ./.
+                          |   Centerbank/NN->NNP   | added/VBD 5\/8/CD to/TO 8
+ Centerbank/NNP added/VBD |      5\/8/NN->CD       | to/TO 8/CD 3\/4/CD ;/: sh
+ed/VBD 5\/8/CD to/TO 8/CD |      3\/4/NN->CD       | ;/: shares/NNS of/IN NESB
+4/CD ;/: shares/NNS of/IN |      NESB/NN->NNP      | ,/, a/DT New/NNP London-b
+NESB/NNP ,/, a/DT New/NNP |  London-based/VBD->JJ  | bank/NN holding/VBG compa
+G company/NN ,/, rose/VBD |      5\/8/NN->CD       | to/TO 5/CD 7\/8/CD ./.
+se/VBD 5\/8/CD to/TO 5/CD |      7\/8/NN->CD       | ./.
+        Among/IN other/JJ |    banking/VBG->NN     | issues/NNS ,/, Pennview/N
+banking/NN issues/NNS ,/, |    Pennview/NN->NNP    | Savings/NNPS Association/
+sues/NNS ,/, Pennview/NNP |   Savings/NNS->NNPS    | Association/NNP leapt/VBD
+ings/NNPS Association/NNP |     leapt/NN->VBD      | more/JJR than/IN 44/CD %/
+Association/NNP leapt/VBD |     more/RBR->JJR      | than/IN 44/CD %/NN with/I
+N a/DT gain/NN of/IN 6/CD |      5\/8/NN->CD       | to/TO 21/CD 5\/8/CD ./.
+ 6/CD 5\/8/CD to/TO 21/CD |      5\/8/NN->CD       | ./.
+IN a/DT merger/NN with/IN |    Univest/NN->NNP     | Corp./NNP of/IN Pennsylva
+   Valley/NNP Federal/NNP |   Savings/NNS->NNPS    | &/CC Loan/NNP ,/, a/DT Ca
+ral/NNP Savings/NNPS &/CC |      Loan/NN->NNP      | ,/, a/DT California/NNP t
+ained/VBD 1/CD to/TO 4/CD |      1\/4/NN->CD       | after/IN *-1/-NONE- repor
+-NONE- reporting/VBG a/DT |  third-quarter/NN->JJ  | loss/NN of/IN $/$ 70.7/CD
+/CD million/CD *U*/-NONE- |     pretax/NN->JJ      | charge/NN mostly/RB relat
+ax/JJ charge/NN mostly/RB |    related/VBN->JJ     | to/TO its/PRP$ mobile/JJ 
+related/JJ to/TO its/PRP$ |     mobile/NN->JJ      | home/NN financing/VBG uni
+ts/PRP$ mobile/JJ home/NN |   financing/NN->VBG    | unit/NN ./.
+                          |      Dan/NN->NNP       | E./NNP Nelms/NNP ,/, Vall
+           Dan/NNP E./NNP |     Nelms/NNS->NNP     | ,/, Valley/NNP Federal/NN
+s/POS president/NN and/CC |      chief/NN->JJ      | executive/NN officer/NN ,
+ said/VBD 0/-NONE- the/DT |    one-time/NN->JJ     | charge/NN substantially/R
+harge/NN substantially/RB |  eliminates/NNS->VBZ   | future/JJ losses/NNS asso
+ntially/RB eliminates/VBZ |     future/NN->JJ      | losses/NNS associated/VBN
+ ``/`` assuming/VBG no/DT |    dramatic/NN->JJ     | fluctuation/NN in/IN inte
+1/-NONE- to/TO achieve/VB |   near-record/NN->JJ   | earnings/NNS in/IN 1990/C
+                          |   Weisfield/NN->NNP    | 's/POS surged/VBD 6/CD 3\
+NP 's/POS surged/VBD 6/CD |      3\/4/NN->CD       | to/TO 55/CD 1\/2/CD and/C
+o/TO 55/CD 1\/2/CD and/CC |    Ratners/NNS->NNP    | Group/NNP 's/POS American
+up/NNP 's/POS American/JJ |   depositary/JJ->NN    | receipts/NNS ,/, or/CC AD
+NN receipts/NNS ,/, or/CC |     ADRs/NNPS->NNS     | ,/, gained/VBD 5\/8/CD to
+C ADRs/NNS ,/, gained/VBD |      5\/8/NN->CD       | to/TO 12/CD 1\/4/CD ./.
+d/VBD 5\/8/CD to/TO 12/CD |      1\/4/NN->CD       | ./.
+ entered/VBD into/IN a/DT |   definitive/NN->JJ    | merger/NN agreement/NN un
+ent/NN under/IN which/WDT |    Ratners/NNS->NNP    | will/MD begin/VB a/DT ten
+er/NN for/IN all/DT of/IN |   Weisfield/NN->NNP    | 's/POS common/JJ shares/N
+                          |      Also/NN->RB       | on/IN the/DT takeover/NN 
+ takeover/NN front/NN ,/, |     Jaguar/NN->NNP     | 's/POS ADRs/NNPS rose/VBD
+'s/POS ADRs/NNPS rose/VBD |      1\/4/NN->CD       | to/TO 13/CD 7\/8/CD on/IN
+e/VBD 1\/4/CD to/TO 13/CD |      7\/8/NN->CD       | on/IN turnover/NN of/IN 4
+/JJ month/NN ,/, its/PRP$ |     ADRs/NNPS->NNS     | have/VBP jumped/VBN about
+     After/IN troubled/JJ |    Heritage/NN->NNP    | Media/NNP proposed/VBD *-
+ troubled/JJ Heritage/NNP |     Media/NN->NNP      | proposed/VBD *-1/-NONE- a
+JJ Heritage/NNP Media/NNP |   proposed/VBN->VBD    | *-1/-NONE- acquiring/VBG 
+ *-1/-NONE- acquiring/VBG |      POP/NN->NNP       | Radio/NNP in/IN a/DT stoc
+NE- acquiring/VBG POP/NNP |     Radio/NN->NNP      | in/IN a/DT stock/NN swap/
+a/DT stock/NN swap/NN ,/, |      POP/NN->NNP       | Radio/NNP 's/POS shares/N
+ck/NN swap/NN ,/, POP/NNP |     Radio/NN->NNP      | 's/POS shares/NNS tumbled
+bled/VBD 4/CD to/TO 14/CD |      3\/4/NN->CD       | ./.
+                          |    Heritage/NN->NNP    | Media/NNP ,/, which/WDT a
+             Heritage/NNP |     Media/NN->NNP      | ,/, which/WDT already/RB 
+about/IN 51/CD %/NN of/IN |      POP/NN->NNP       | Radio/NNP ,/, proposed/VB
+ 51/CD %/NN of/IN POP/NNP |     Radio/NN->NNP      | ,/, proposed/VBD *-2/-NON
+/IN POP/NNP Radio/NNP ,/, |   proposed/VBN->VBD    | *-2/-NONE- paying/VBG POP
+VBD *-2/-NONE- paying/VBG |      POP/NN->NNP       | Radio/NNP shareholders/NN
+-NONE- paying/VBG POP/NNP |     Radio/NN->NNP      | shareholders/NNS with/IN 
+/DT new/JJ class/NN of/IN |    Heritage/NN->NNP    | Media/NNP preferred/JJ st
+ass/NN of/IN Heritage/NNP |     Media/NN->NNP      | preferred/JJ stock/NN tha
+IN Heritage/NNP Media/NNP |   preferred/VBN->JJ    | stock/NN that/WDT *T*-122
+NNP preferred/JJ stock/NN |      that/IN->WDT      | *T*-122/-NONE- would/MD b
+rred/JJ stock/NN that/WDT |   *T*-122/NN->-NONE-   | would/MD be/VB convertibl
+ four/CD shares/NNS of/IN |    Heritage/NN->NNP    | Media/NNP 's/POS common/N
+es/NNS of/IN Heritage/NNP |     Media/NN->NNP      | 's/POS common/NN ./.
+tage/NNP Media/NNP 's/POS |     common/JJ->NN      | ./.
+                          |     Rally/RB->NNP      | 's/POS lost/VBN 1/CD 3\/4
+         Rally/NNP 's/POS |      lost/NN->VBN      | 1/CD 3\/4/CD to/TO 21/CD 
+/NNP 's/POS lost/VBN 1/CD |      3\/4/NN->CD       | to/TO 21/CD 3\/4/CD ./.
+ 1/CD 3\/4/CD to/TO 21/CD |      3\/4/NN->CD       | ./.
+areholder/NN group/NN ,/, |     Giant/NN->NNP      | Group/NNP Ltd./NNP ,/, ``
+                          |     Giant/NN->NNP      | Group/NNP is/VBZ led/VBN 
+*-1/-NONE- by/IN three/CD |     Rally/RB->NNP      | 's/POS directors/NNS ,/, 
+ 's/POS directors/NNS ,/, |      Burt/NN->NNP      | Sugarman/NNP ,/, James/NN
+irectors/NNS ,/, Burt/NNP |    Sugarman/NN->NNP    | ,/, James/NNP M./NNP Trot
+/NNP ,/, James/NNP M./NNP |    Trotter/NN->NNP     | III/NNP and/CC William/NN
+and/CC William/NNP E./NNP |    Trotter/NN->NNP     | II/NNP ,/, who/WP earlier
+ter/NNP II/NNP ,/, who/WP |    earlier/JJR->RB     | this/DT month/NN *T*-2/-N
+.5/CD %/NN stake/NN in/IN |     Rally/RB->NNP      | 's/POS and/CC planned/VBD
+N Rally/NNP 's/POS and/CC |    planned/VBN->VBD    | *-3/-NONE- to/TO seek/VB 
+/NN of/IN seats/NNS on/IN |     Rally/RB->NNP      | 's/POS nine-member/JJ boa
+NS on/IN Rally/NNP 's/POS |   nine-member/NN->JJ   | board/NN ./.
+                          |      SCI/NN->NNP       | Systems/NNP slipped/VBD 7
+                  SCI/NNP |    Systems/NNS->NNP    | slipped/VBD 7\/8/CD to/TO
+P Systems/NNP slipped/VBD |      7\/8/NN->CD       | to/TO 10/CD on/IN volume/
+                   The/DT |   Huntsville/NN->NNP   | ,/, Ala./NNP ,/, electron
+The/DT Huntsville/NNP ,/, |      Ala./NN->NNP      | ,/, electronic/JJ product
+' loss/NN for/IN its/PRP$ |     fiscal/NN->JJ      | first/JJ quarter/NN ended
+al/JJ first/JJ quarter/NN |     ended/VBD->VBN     | Sept./NNP 30/CD ./.
+t/JJ quarter/NN ended/VBN |     Sept./NN->NNP      | 30/CD ./.
+             In/IN the/DT |  year-earlier/NN->JJ   | period/NN ,/, SCI/NNP had
+-earlier/JJ period/NN ,/, |      SCI/NN->NNP       | had/VBD net/JJ income/NN 
+                   The/DT |    Internal/NN->NNP    | Revenue/NNP Service/NNP h
+      The/DT Internal/NNP |    Revenue/NN->NNP     | Service/NNP has/VBZ threa
+NP has/VBZ threatened/VBN |    criminal/NN->JJ     | sanctions/NNS against/IN 
+nst/IN lawyers/NNS who/WP |   *T*-123/NN->-NONE-   | fail/VBP *-1/-NONE- to/TO
+NNS who/WP *T*-123/-NONE- |      fail/VB->VBP      | *-1/-NONE- to/TO report/V
+-1/-NONE- to/TO report/VB |    detailed/VBD->JJ    | information/NN about/IN c
+out/IN clients/NNS who/WP |   *T*-124/NN->-NONE-   | pay/VBP them/PRP more/JJR
+NNS who/WP *T*-124/-NONE- |      pay/VB->VBP       | them/PRP more/JJR than/IN
+4/-NONE- pay/VBP them/PRP |     more/RBR->JJR      | than/IN $/$ 10,000/CD *U*
+ members/NNS of/IN the/DT |   organized/VBD->JJ    | bar/NN ,/, who/WP *T*-125
+ized/JJ bar/NN ,/, who/WP |   *T*-125/NN->-NONE-   | claim/VBP 0/-NONE- the/DT
+,/, who/WP *T*-125/-NONE- |     claim/NN->VBP      | 0/-NONE- the/DT informati
+cted/VBN *-1/-NONE- by/IN | attorney-client/NN->JJ | privilege/NN ./.
+                   The/DT |      IRS/NN->NNP       | warnings/NNS stem/VBP fro
+e/DT IRS/NNP warnings/NNS |      stem/NN->VBP      | from/IN a/DT 1984/CD law/
+ires/VBZ anyone/NN who/WP |   *T*-126/NN->-NONE-   | receives/VBZ more/JJR tha
+/NN who/WP *T*-126/-NONE- |   receives/NNS->VBZ    | more/JJR than/IN $/$ 10,0
+*-126/-NONE- receives/VBZ |     more/RBR->JJR      | than/IN $/$ 10,000/CD *U*
+mer/NN in/IN one/CD or/CC |     more/RBR->JJR      | related/JJ transactions/N
+/IN one/CD or/CC more/JJR |    related/VBN->JJ     | transactions/NNS ``/`` in
+C business/NN ''/'' to/TO |     report/NN->VB      | the/DT payment/NN on/IN a
+ent/NN 's/POS name/NN ,/, |     Social/NN->NNP     | Security/NNP number/NN ,/
+OS name/NN ,/, Social/NNP |    Security/NN->NNP    | number/NN ,/, passport/NN
+,/, when/WRB Congress/NNP |  determined/VBN->VBD   | that/IN the/DT crime/NN w
+ny/NN punishable/JJ by/IN |       up/RB->IN        | to/TO 10/CD years/NNS in/
+out/IN clients/NNS who/WP |   *T*-127/NN->-NONE-   | do/VBP n't/RB wish/VB the
+-127/-NONE- do/VBP n't/RB |      wish/NN->VB       | their/PRP$ identities/NNS
+JJ forms/NNS to/TO the/DT |      IRS/NN->NNP       | in/IN recent/JJ years/NNS
+,/, *-1/-NONE- citing/VBG | attorney-client/NN->JJ | privilege/NN ./.
+ast/JJ week/NN ,/, the/DT |      IRS/NN->NNP       | rarely/RB acted/VBD on/IN
+/'' said/VBD *T*-1/-NONE- |      Neal/NN->NNP      | R./NNP Sonnett/NNP ,/, pr
+-1/-NONE- Neal/NNP R./NNP |    Sonnett/NN->NNP     | ,/, president/NN of/IN th
+NNP Association/NNP of/IN |    Criminal/NN->NNP    | Defense/NNP Lawyers/NNPS 
+on/NNP of/IN Criminal/NNP |    Defense/NN->NNP     | Lawyers/NNPS ./.
+ Criminal/NNP Defense/NNP |   Lawyers/NNS->NNPS    | ./.
+             ``/`` The/DT |      IRS/NN->NNP       | is/VBZ asking/VBG lawyers
+E- to/TO red-flag/VB a/DT |    criminal/NN->JJ     | problem/NN to/TO the/DT g
+, ''/'' added/VBD Mr./NNP |    Sonnett/NN->NNP     | ,/, a/DT Miami/NNP lawyer
+/NNP Sonnett/NNP ,/, a/DT |     Miami/NN->NNP      | lawyer/NN who/WP *T*-128/
+iami/NNP lawyer/NN who/WP |   *T*-128/NN->-NONE-   | has/VBZ heard/VBN from/IN
+f/IN attorneys/NNS who/WP |   *T*-129/NN->-NONE-   | received/VBD letters/NNS 
+NNS who/WP *T*-129/-NONE- |   received/VBN->VBD    | letters/NNS in/IN recent/
+f/PRP received/VBD the/DT | computer-generated/VBD->JJ | IRS/NNP forms/NNS sent/VB
+/DT computer-generated/JJ |      IRS/NN->NNP       | forms/NNS sent/VBN */-NON
+ated/JJ IRS/NNP forms/NNS |      sent/NN->VBN      | */-NONE- by/IN certified/
+S sent/VBN */-NONE- by/IN |   certified/VBD->JJ    | mail/NN ./.
+                  Mr./NNP |    Sonnett/NN->NNP     | said/VBD that/IN clients/
+hat/IN clients/NNS who/WP |   *T*-130/NN->-NONE-   | pay/VBP cash/NN may/MD in
+NNS who/WP *T*-130/-NONE- |      pay/VB->VBP       | cash/NN may/MD include/VB
+cash/NN may/MD include/VB |    alleged/VBD->VBN    | drug/NN dealers/NNS who/W
+rug/NN dealers/NNS who/WP |   *T*-131/NN->-NONE-   | do/VBP n't/RB have/VB dom
+ve/VB domestic/JJ bank/NN |   accounts/VBZ->NNS    | ./.
+tion/NN when/WRB they/PRP |      hire/NN->VBP      | lawyers/NNS *T*-1/-NONE- 
+                  Mr./NNP |    Sonnett/NN->NNP     | said/VBD 0/-NONE- there/E
+/PRP had/VBD retained/VBN |    criminal/NN->JJ     | defense/NN lawyers/NNS *T
+-NONE- Filling/VBG out/RP |    detailed/VBD->JJ    | forms/NNS about/IN these/
+NS would/MD tip/VB the/DT |      IRS/NN->NNP       | off/RP and/CC spark/VB ac
+/DT IRS/NNP off/RP and/CC |      spark/NN->VB      | action/NN against/IN the/
+/NNP York/NNP attorney/NN |     Gerald/NN->NNP     | Lefcourt/NNP ,/, 0/-NONE-
+NP attorney/NN Gerald/NNP |    Lefcourt/NN->NNP    | ,/, 0/-NONE- *T*-2/-NONE-
+                   The/DT |    American/JJ->NNP    | Bar/NNP Association/NNP '
+      The/DT American/NNP |      Bar/NN->NNP       | Association/NNP 's/POS Ho
+NP 's/POS House/NNP of/IN |  Delegates/NNS->NNPS   | passed/VBD a/DT resolutio
+/NNP of/IN Delegates/NNPS |    passed/VBN->VBD     | a/DT resolution/NN *ICH*-
+/CD condemning/VBG the/DT |      IRS/NN->NNP       | reporting/NN requirement/
+emning/VBG the/DT IRS/NNP |   reporting/VBG->NN    | requirement/NN ./.
+York/NNP lawyer/NN who/WP |   *T*-132/NN->-NONE-   | heads/VBZ the/DT ABA/NNP 
+2/-NONE- heads/VBZ the/DT |      ABA/NN->NNP       | 's/POS grand/JJ jury/NN c
+VBZ the/DT ABA/NNP 's/POS |      grand/NN->JJ      | jury/NN committee/NN ,/, 
+N *-1/-NONE- by/IN the/DT |      ABA/NN->NNP       | 's/POS code/NN of/IN ethi
+N where/WRB a/DT court/NN |    orders/NNS->VBZ     | it/PRP *T*-3/-NONE- or/CC
+NONE- committing/VBG a/DT |    criminal/NN->JJ     | act/NN that/WDT *T*-2/-NO
+ting/VBG a/DT criminal/JJ |       act/VB->NN       | that/WDT *T*-2/-NONE- cou
+fficials/NNS of/IN the/DT |      IRS/NN->NNP       | and/CC the/DT Justice/NNP
+/DT IRS/NNP and/CC the/DT |    Justice/NN->NNP     | Department/NNP ,/, which/
+artment/NNP ,/, which/WDT |   *T*-133/NN->-NONE-   | would/MD bring/VB any/DT 
+                    At/IN |      that/IN->DT       | meeting/NN ,/, he/PRP sai
+- *T*-1/-NONE- ,/, the/DT |    Justice/NN->NNP     | Department/NNP assured/VB
+ attorneys/NNS without/IN |    further/RBR->JJ     | review/NN and/CC advance/
+oss/NNP said/VBD 0/-NONE- |      IRS/NN->NNP       | officials/NNS opposed/VBD
+NE- IRS/NNP officials/NNS |    opposed/VBN->VBD    | the/DT Justice/NNP Depart
+ls/NNS opposed/VBD the/DT |    Justice/NN->NNP     | Department/NNP 's/POS mod
+NNP Department/NNP 's/POS |    moderate/NN->JJ     | stance/NN on/IN the/DT ma
+ in/IN the/DT letters/NNS |      sent/NN->VBN      | */-NONE- in/IN recent/JJ 
+IN recent/JJ days/NNS ,/, |  Christopher/NN->NNP   | J./NNP Lezovich/NNP of/IN
+/, Christopher/NNP J./NNP |    Lezovich/NN->NNP    | of/IN the/DT IRS/NNP comp
+Lezovich/NNP of/IN the/DT |      IRS/NN->NNP       | computing/NN center/NN in
+puting/NN center/NN in/IN |    Detroit/NN->NNP     | ,/, told/VBD attorneys/NN
+ONE- to/TO voluntarily/RB |     submit/NN->VB      | the/DT requested/VBN info
+ could/MD result/VB in/IN |    summons/NNS->NN     | enforcement/NN action/NN 
+nt/NN action/NN being/VBG |   initiated/VBD->VBN   | *-2/-NONE- ./. ''/''
+e/DT cases/NNS ,/, the/DT |      IRS/NN->NNP       | asked/VBD for/IN informat
+information/NN dating/VBG |      back/NN->RB       | to/TO forms/NNS 0/-NONE- 
+pokesman/NN for/IN the/DT |      IRS/NN->NNP       | confirmed/VBD that/IN ``/
+/NN for/IN the/DT IRS/NNP |   confirmed/VBN->VBD   | that/IN ``/`` there/EX ha
+e/DT letters/NNS were/VBD |      sent/NN->VBN      | *-2/-NONE- to/TO lawyers/
+          Individuals/NNS |    familiar/NN->JJ     | with/IN the/DT Justice/NN
+amiliar/JJ with/IN the/DT |    Justice/NN->NNP     | Department/NNP 's/POS pol
+olicy/NN said/VBD that/IN |     Justice/NN->JJ     | officials/NNS had/VBD n't
+knowledge/NN of/IN the/DT |      IRS/NN->NNP       | 's/POS actions/NNS in/IN 
+ about/IN clients/NNS ,/, |      that/IN->DT       | data/NN could/MD quickly/
+N clients/NNS ,/, that/DT |      data/NNS->NN      | could/MD quickly/RB end/V
+ta/NN could/MD quickly/RB |       end/NN->VB       | up/RP in/IN the/DT hands/
+          Prosecutors/NNS |     need/VBD->VBP      | court/NN permission/NN *-
+O obtain/VB the/DT tax/NN |    returns/VBZ->NNS    | of/IN an/DT individual/NN
+N returns/NNS of/IN an/DT |   individual/JJ->NN    | or/CC a/DT business/NN ./
+PRP have/VBP obtained/VBN |      8300/CD->JJ       | forms/NNS without/IN cour
+t/NN permission/NN and/CC |     used/VBN->VBD      | the/DT information/NN *-1
+ *-1/-NONE- to/TO help/VB |     develop/NN->VB     | criminal/JJ cases/NNS ./.
+ to/TO help/VB develop/VB |    criminal/NN->JJ     | cases/NNS ./.
+                  Some/DT |    criminal/NN->JJ     | lawyers/NNS speculated/VB
+T criminal/JJ lawyers/NNS |  speculated/VBN->VBD   | that/IN the/DT IRS/NNP wa
+ulated/VBD that/IN the/DT |      IRS/NN->NNP       | was/VBD sending/VBG the/D
+ients/NNS should/MD be/VB |  confidential/NN->JJ   | ./.
+                          |       THE/NN->DT       | WAR/NN OVER/IN FEDERAL/JJ
+            THE/DT WAR/NN |      OVER/NN->IN       | FEDERAL/JJ JUDICIAL/JJ SA
+    THE/DT WAR/NN OVER/IN |     FEDERAL/NN->JJ     | JUDICIAL/JJ SALARIES/NNS 
+WAR/NN OVER/IN FEDERAL/JJ |    JUDICIAL/NN->JJ     | SALARIES/NNS takes/VBZ a/
+IN FEDERAL/JJ JUDICIAL/JJ |    SALARIES/NN->NNS    | takes/VBZ a/DT victim/NN 
+                          |      Often/NN->RB      | ,/, judges/NNS ease/VBP i
+ease/VBP into/IN more/RBR |    lucrative/NN->JJ    | private/JJ practice/NN wi
+t/RB federal/JJ Judge/NNP |      Raul/NN->NNP      | A./NN Ramirez/NNP in/IN S
+ral/JJ Judge/NNP Raul/NNP |       A./NNP->NN       | Ramirez/NNP in/IN Sacrame
+ Judge/NNP Raul/NNP A./NN |    Ramirez/NN->NNP     | in/IN Sacramento/NNP ,/, 
+P A./NN Ramirez/NNP in/IN |   Sacramento/NN->NNP   | ,/, Calif/NNP ./.
+ in/IN Sacramento/NNP ,/, |     Calif/NN->NNP      | ./.
+y/NNP ,/, the/DT judge/NN |    called/VBN->VBD     | a/DT news/NN conference/N
+VBG */-NONE- effective/JJ |      Dec./NNP->NN      | 31/CD *-2/-NONE- to/TO jo
+-NONE- to/TO join/VB a/DT |      San/NN->NNP       | Francisco/NNP law/NN firm
+o/TO join/VB a/DT San/NNP |   Francisco/NN->NNP    | law/NN firm/NN ./.
+ ,/, and/CC I/PRP was/VBD |     afraid/NN->JJ      | 0/-NONE- I/PRP was/VBD go
+                          |    Federal/NNP->JJ     | judges/NNS make/VBP $/$ 8
+uary/NNP ,/, Congress/NNP |   rejected/VBN->VBD    | a/DT bill/NN that/WDT *T*
+1/-NONE- would/MD have/VB |   increased/VBD->VBN   | their/PRP$ pay/NN by/IN 5
+ increased/VBN their/PRP$ |       pay/VB->NN       | by/IN 50/CD %/NN ./.
+                Judge/NNP |    Ramirez/NN->NNP     | ,/, 44/CD ,/, said/VBD 0/
+PRP *EXP*-3/-NONE- is/VBZ |     unjust/NN->JJ      | for/IN judges/NNS to/TO m
+                  You/PRP |      look/NN->VBP      | around/RP at/IN professio
+         You/PRP look/VBP |     around/IN->RP      | at/IN professional/JJ bal
+ look/VBP around/RP at/IN |  professional/NN->JJ   | ballplayers/NNS or/CC acc
+NS .../: and/CC nobody/NN |    blinks/NNS->VBZ     | an/DT eye/NN ./.
+         When/WRB you/PRP |    become/VBD->VBP     | a/DT federal/JJ judge/NN 
+NE- ,/, all/DT of/IN a/DT |     sudden/NN->JJ      | you/PRP are/VBP relegated
+VBN *-2/-NONE- to/TO a/DT |     paltry/NN->JJ      | sum/NN ./. ''/''
+itigation/NN in/IN the/DT |   Sacramento/NN->NNP   | office/NN of/IN Orrick/NN
+mento/NNP office/NN of/IN |     Orrick/NN->NNP     | ,/, Herrington/NNP &/CC S
+e/NN of/IN Orrick/NNP ,/, |   Herrington/NN->NNP   | &/CC Sutcliffe/NNP ,/, he
+P ,/, Herrington/NNP &/CC |   Sutcliffe/NN->NNP    | ,/, he/PRP will/MD make/V
+2/-NONE- to/TO be/VB a/DT |  high-priced/VBN->JJ   | lawyer/NN ./. ''/''
+                          |   DOONESBURY/NN->NNP   | CREATOR'S/NN UNION/NN TRO
+NNP CREATOR'S/NN UNION/NN |    TROUBLES/NN->NNS    | are/VBP no/DT laughing/JJ
+ROUBLES/NNS are/VBP no/DT |    laughing/VBG->JJ    | matter/NN ./.
+            Cartoonist/NN |     Garry/NN->NNP      | Trudeau/NNP is/VBZ suing/
+  Cartoonist/NN Garry/NNP |    Trudeau/NN->NNP     | is/VBZ suing/VBG the/DT W
+P is/VBZ suing/VBG the/DT |   Writers/NNS->NNPS    | Guild/NNP of/IN America/N
+g/VBG the/DT Writers/NNPS |     Guild/NN->NNP      | of/IN America/NNP East/NN
+ters/NNPS Guild/NNP of/IN |    America/NN->NNP     | East/NNP for/IN $/$ 11/CD
+ild/NNP of/IN America/NNP |      East/JJ->NNP      | for/IN $/$ 11/CD million/
+ampaign/NN */-NONE- to/TO |     harass/NNS->VB     | and/CC punish/VB ''/'' hi
+E- to/TO harass/VB and/CC |     punish/NN->VB      | ''/'' him/PRP for/IN */-N
+        The/DT dispute/NN |   involves/NNS->VBZ    | Darkhorse/NNP Productions
+T dispute/NN involves/VBZ |   Darkhorse/NN->NNP    | Productions/NNPS Inc./NNP
+nvolves/VBZ Darkhorse/NNP | Productions/NNS->NNPS  | Inc./NNP ,/, a/DT TV/NN p
+N in/IN which/WDT Mr./NNP |    Trudeau/NN->NNP     | is/VBZ a/DT co-owner/NN *
+                  Mr./NNP |    Trudeau/NN->NNP     | ,/, a/DT Writers/NNPS Gui
+/NNP Trudeau/NNP ,/, a/DT |   Writers/NNS->NNPS    | Guild/NNP member/NN ,/, a
+NNP ,/, a/DT Writers/NNPS |     Guild/NN->NNP      | member/NN ,/, also/RB was
+/IN a/DT writer/NN for/IN |   Darkhorse/NN->NNP    | ,/, which/WDT *T*-134/-NO
+rkhorse/NNP ,/, which/WDT |   *T*-134/NN->-NONE-   | was/VBD covered/VBN *-2/-
+NONE- by/IN a/DT guild/NN | collective-bargaining/VBG->JJ | agreement/NN ./.
+P$ lawsuit/NN ,/, Mr./NNP |    Trudeau/NN->NNP     | says/VBZ 0/-NONE- the/DT 
+illegally/RB included/VBD |   Darkhorse/NN->NNP    | ,/, and/CC the/DT cartoon
+d/CC the/DT cartoonist/NN |    refused/VBN->VBD    | *-1/-NONE- to/TO honor/VB
+ He/PRP said/VBD 0/-NONE- |  disciplinary/NN->JJ   | proceedings/NNS are/VBP c
+J proceedings/NNS are/VBP |  confidential/NN->JJ   | and/CC declined/VBD *-1/-
+-NONE- against/IN Mr./NNP |    Trudeau/NN->NNP     | ./.
+                  Mr./NNP |    Trudeau/NN->NNP     | 's/POS attorney/NN ,/, No
+ttorney/NN ,/, Norman/NNP |       K./NN->NNP       | Samnick/NNP ,/, said/VBD 
+/NN ,/, Norman/NNP K./NNP |    Samnick/NN->NNP     | ,/, said/VBD 0/-NONE- the
+ONE- the/DT harassment/NN |   consists/NNS->VBZ    | mainly/RB of/IN the/DT gu
+IN the/DT guild/NN 's/POS |    year-long/NN->JJ    | threats/NNS of/IN discipl
+long/JJ threats/NNS of/IN |  disciplinary/NN->JJ   | action/NN ./.
+                  Mr./NNP |    Samnick/NN->NNP     | said/VBD 0/-NONE- a/DT gu
+BD 0/-NONE- a/DT guild/NN |  disciplinary/NN->JJ   | hearing/NN is/VBZ schedul
+ scheduled/VBN *-1/-NONE- |      next/JJ->IN       | Monday/NNP in/IN New/NNP 
+                  Mr./NNP |    Samnick/NN->NNP     | ,/, who/WP *T*-135/-NONE-
+NP Samnick/NNP ,/, who/WP |   *T*-135/NN->-NONE-   | will/MD go/VB before/IN t
+MD go/VB before/IN the/DT |  disciplinary/NN->JJ   | panel/NN ,/, said/VBD 0/-
+T guild/NN would/MD be/VB |  unjustified/VBN->JJ   | ./.
+es/NNS ,/, the/DT suit/NN |     seeks/NNS->VBZ     | a/DT court/NN order/NN pr
+IN *RNR*-1/-NONE- Mr./NNP |    Trudeau/NN->NNP     | ./.
+    ABORTION/NN RULING/NN |     UPHELD/NN->VBN     | *-1/-NONE- :/:
+deral/JJ funds/NNS for/IN | family-planning/VBG->JJ | programs/NNS that/WDT *T*
+-planning/JJ programs/NNS |      that/IN->WDT      | *T*-1/-NONE- include/VBP 
+NNS that/WDT *T*-1/-NONE- |    include/VB->VBP     | abortion-related/JJ servi
+ *T*-1/-NONE- include/VBP | abortion-related/VBD->JJ | services/NNS ./.
+P of/IN Health/NNP and/CC |     Human/NN->NNP      | Services/NNPS rule/NN ado
+alth/NNP and/CC Human/NNP |   Services/NNS->NNPS   | rule/NN adopted/VBN */-NO
+C Human/NNP Services/NNPS |      rule/VBP->NN      | adopted/VBN */-NONE- in/I
+BN */-NONE- in/IN 1988/CD |   prohibits/NNS->VBZ   | the/DT use/NN of/IN so-ca
+/IN so-called/JJ Title/NN |       X/NN->NNP        | funds/NNS for/IN programs
+s/NNS for/IN programs/NNS |      that/IN->WDT      | *T*-136/-NONE- assist/VBP
+/IN programs/NNS that/WDT |   *T*-136/NN->-NONE-   | assist/VBP a/DT woman/NN 
+S that/WDT *T*-136/-NONE- |     assist/NN->VBP     | a/DT woman/NN in/IN *-1/-
+such/JJ as/IN abortion/NN |   counseling/VBG->NN   | and/CC referrals/NNS ./.
+   The/DT rule/NN also/RB |   prohibits/NNS->VBZ   | funding/NN for/IN activit
+/NN for/IN activities/NNS |      that/IN->WDT      | ``/`` *T*-137/-NONE- enco
+vities/NNS that/WDT ``/`` |   *T*-137/NN->-NONE-   | encourage/VBP ,/, promote
+/WDT ``/`` *T*-137/-NONE- |   encourage/VB->VBP    | ,/, promote/VBP or/CC adv
+/-NONE- encourage/VBP ,/, |    promote/NN->VBP     | or/CC advocate/VBP aborti
+VBP ,/, promote/VBP or/CC |    advocate/NN->VBP    | abortion/NN ./. ''/''
+                 Title/NN |       X/NN->NNP        | funds/NNS are/VBP the/DT 
+eral/JJ funding/NN for/IN | family-planning/VBG->JJ | services/NNS ,/, accordin
+T opinion/NN by/IN the/DT |     Second/JJ->NNP     | U.S./NNP Circuit/NNP Cour
+rcuit/NNP Court/NNP of/IN |   Appeals/NNS->NNPS    | in/IN New/NNP York/NNP ./
+ictions/NNS do/VBP n't/RB |     violate/NN->VB     | the/DT freedom/NN of/IN s
+N the/DT limits/NNS on/IN |   counseling/VBG->NN   | services/NNS do/VBP n't/R
+ervices/NNS do/VBP n't/RB |     violate/NN->VB     | the/DT rights/NNS of/IN p
+B the/DT rights/NNS of/IN |    pregnant/NN->JJ     | women/NNS ./.
+               INQUIRY/NN |     CLEARS/NN->VBZ     | TEXAS/NNP JUDGE/NN of/IN 
+    INQUIRY/NN CLEARS/VBZ |     TEXAS/NN->NNP      | JUDGE/NN of/IN bias/NN in
+ TEXAS/NNP JUDGE/NN of/IN |      bias/NNS->NN      | in/IN comments/NNS on/IN 
+ in/IN comments/NNS on/IN |   homosexual/NN->JJ    | murder/NN victims/NNS ./.
+                          |    Dallas/NNS->NNP     | District/NNP Judge/NNP Ja
+               Dallas/NNP |    District/NN->NNP    | Judge/NNP Jack/NNP Hampto
+NP District/NNP Judge/NNP |      Jack/NN->NNP      | Hampton/NNP had/VBD spark
+ct/NNP Judge/NNP Jack/NNP |    Hampton/NN->NNP     | had/VBD sparked/VBN calls
+n/NNP had/VBD sparked/VBN |     calls/VBZ->NNS     | for/IN a/DT judicial/JJ i
+VBN calls/NNS for/IN a/DT |    judicial/NN->JJ     | inquiry/NN with/IN his/PR
+O the/DT press/NN last/JJ |    December/NN->NNP    | ,/, two/CD weeks/NNS afte
+ONE- sentencing/VBG an/DT |   18-year-old/NN->JJ   | defendant/NN to/TO 30/CD 
+-NONE- killing/VBG two/CD |   homosexual/NN->JJ    | men/NNS in/IN a/DT city/N
+/-NONE- picking/VBG up/RP |     teenage/NN->JJ     | boys/NNS ./. ''/''
+ But/CC Robert/NNP R./NNP |     Murray/NN->NNP     | ,/, a/DT special/JJ maste
+id/VBD 0/-NONE- Judge/NNP |    Hampton/NN->NNP     | did/VBD n't/RB breach/VB 
+D n't/RB breach/VB any/DT |    judicial/NN->JJ     | standards/NNS of/IN fairn
+lthough/IN he/PRP did/VBD |     violate/NN->VB     | the/DT state/NN 's/POS ju
+VB the/DT state/NN 's/POS |    judicial/NN->JJ     | code/NN by/IN *-1/-NONE- 
+NN ``/`` has/VBZ never/RB |   exhibited/VBD->VBN   | any/DT bias/NN or/CC prej
+r/RB exhibited/VBN any/DT |      bias/NNS->NN      | or/CC prejudice/NN ,/, ''
+dice/NN ,/, ''/'' Mr./NNP |     Murray/NN->NNP     | concluded/VBD that/IN he/
+/PRP ``/`` would/MD be/VB |    impartial/NN->JJ    | in/IN any/DT case/NN invo
+                  Mr./NNP |     Murray/NN->NNP     | also/RB said/VBD 0/-NONE-
+id/VBD 0/-NONE- Judge/NNP |    Hampton/NN->NNP     | 's/POS comments/NNS did/V
+mments/NNS did/VBD n't/RB |    discredit/NN->VB    | the/DT judiciary/NN or/CC
+N is/VBZ subject/JJ to/TO |     review/NN->VB      | by/IN the/DT State/NNP Co
+/NNP Commission/NNP on/IN |    Judicial/NN->NNP    | Conduct/NNP ,/, which/WDT
+on/NNP on/IN Judicial/NNP |    Conduct/NN->NNP     | ,/, which/WDT *T*-138/-NO
+Conduct/NNP ,/, which/WDT |   *T*-138/NN->-NONE-   | is/VBZ empowered/VBN *-1/
+                          |      GAF/NN->NNP       | TRIAL/NN goes/VBZ to/TO r
+NNS in/IN the/DT third/JJ | stock-manipulation/NN->JJ | trial/NN of/IN GAF/NNP Co
+ulation/JJ trial/NN of/IN |      GAF/NN->NNP       | Corp./NNP began/VBD openi
+yesterday/NN in/IN the/DT |   Manhattan/NN->NNP    | courtroom/NN of/IN U.S./N
+urtroom/NN of/IN U.S./NNP |    District/NN->NNP    | Judge/NNP Mary/NNP Johnso
+/NNP Mary/NNP Johnson/NNP |      Lowe/NN->NNP      | ./.
+              In/IN an/DT |   eight-count/NN->JJ   | indictment/NN ,/, the/DT 
+nt/NN has/VBZ charged/VBN |      GAF/NN->NNP       | ,/, a/DT Wayne/NNP ,/, N.
+rged/VBN GAF/NNP ,/, a/DT |     Wayne/NN->NNP      | ,/, N.J./NNP ,/, specialt
+NP ,/, a/DT Wayne/NNP ,/, |      N.J./NN->NNP      | ,/, specialty/NN chemical
+er/NN ,/, and/CC its/PRP$ |      Vice/NN->NNP      | Chairman/NNP James/NNP T.
+ and/CC its/PRP$ Vice/NNP |    Chairman/NN->NNP    | James/NNP T./NNP Sherwin/
+rman/NNP James/NNP T./NNP |    Sherwin/NN->NNP     | with/IN *-2/-NONE- attemp
+ stock/NN of/IN Union/NNP |    Carbide/NN->NNP     | Corp./NNP in/IN advance/N
+NP in/IN advance/NN of/IN |      GAF/NN->NNP       | 's/POS planned/JJ sale/NN
+e/NN of/IN GAF/NNP 's/POS |    planned/VBN->JJ     | sale/NN of/IN a/DT large/
+le/NN of/IN a/DT large/JJ |      block/VB->NN      | of/IN the/DT stock/NN in/
+   The/DT first/JJ two/CD |      GAF/NN->NNP       | trials/NNS ended/VBD in/I
+d/VBD in/IN mistrials/NNS |    earlier/JJR->RBR    | this/DT year/NN ./.
+cted/VBN *-1/-NONE- to/TO |      last/JJ->VB       | five/CD weeks/NNS ./.
+                 */-NONE- |   SWITCHING/NN->VBG    | TO/TO THE/DT DEFENSE/NN :
+   */-NONE- SWITCHING/VBG |       TO/NN->TO        | THE/DT DEFENSE/NN :/:
+NONE- SWITCHING/VBG TO/TO |       THE/NN->DT       | DEFENSE/NN :/:
+n/NN team/NN in/IN the/DT |  Iran\/Contra/NN->NNP  | affair/NN joined/VBD the/
+Chicago/NNP firm/NN of/IN |     Mayer/NN->NNP      | ,/, Brown/NNP &/CC Platt/
+rm/NN of/IN Mayer/NNP ,/, |     Brown/NN->NNP      | &/CC Platt/NNP ./.
+       Michael/NNP R./NNP |    Bromwich/NN->NNP    | ,/, a/DT member/NN since/
+/NNP 1987/CD of/IN the/DT |  three-lawyer/NN->JJ   | trial/NN team/NN in/IN th
+e/DT prosecution/NN of/IN |     Oliver/NN->NNP     | North/NNP ,/, became/VBD 
+ution/NN of/IN Oliver/NNP |     North/NN->NNP      | ,/, became/VBD a/DT partn
+the/DT Washington/NNP ,/, |      D.C./NN->NNP      | ,/, office/NN of/IN the/D
+/, office/NN of/IN the/DT |   520-lawyer/NN->JJ    | firm/NN ./.
+ll/MD specialize/VB in/IN |  white-collar/NN->JJ   | criminal/NN defense/NN wo
+                  Mr./NNP |    Bromwich/NN->NNP    | ,/, 35/CD ,/, also/RB has
+or/IN the/DT Southern/NNP |    District/NN->NNP    | of/IN New/NNP York/NNP ,/
+ based/VBN */-NONE- in/IN |   Manhattan/NN->NNP    | ./.
+                          |     Cooper/NN->NNP     | Tire/NNP &/SYM Rubber/NNP
+               Cooper/NNP |      Tire/NN->NNP      | &/SYM Rubber/NNP Co./NNP 
+      Cooper/NNP Tire/NNP |       &/CC->SYM        | Rubber/NNP Co./NNP said/V
+Cooper/NNP Tire/NNP &/SYM |     Rubber/NN->NNP     | Co./NNP said/VBD 0/-NONE-
+y/VB buildings/NNS and/CC |    related/VBN->JJ     | property/NN in/IN Albany/
+ated/JJ property/NN in/IN |     Albany/NN->NNP     | ,/, Ga./NNP ,/, from/IN B
+y/NN in/IN Albany/NNP ,/, |      Ga./NN->NNP       | ,/, from/IN Bridgestone\/
+P ,/, Ga./NNP ,/, from/IN | Bridgestone\/Firestone/NN->NNP | Inc/NNP ./.
+ridgestone\/Firestone/NNP |      Inc/NN->NNP       | ./.
+Terms/NNS were/VBD n't/RB |   disclosed/VBD->VBN   | *-1/-NONE- ./.
+ONE- the/DT buildings/NNS |    consist/NN->VBP     | of/IN 1.8/CD million/CD s
+P of/IN 1.8/CD million/CD |     square/NN->JJ      | feet/NNS of/IN office/NN 
+8/CD million/CD square/JJ |      feet/NN->NNS      | of/IN office/NN ,/, manuf
+, manufacturing/NN and/CC |  warehousing/VBG->NN   | space/NN on/IN 353/CD acr
+ook/VBD the/DT unusual/JJ |      step/VB->NN       | of/IN */-NONE- publicly/R
+/NNS of/IN just/RB one/CD |      yen/NNS->NN       | for/IN several/JJ local/J
+ ,/, while/IN computer/NN |      rival/JJ->NN      | NEC/NNP Corp./NNP made/VB

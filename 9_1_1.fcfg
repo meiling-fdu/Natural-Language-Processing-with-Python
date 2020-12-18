@@ -1,0 +1,12 @@
+% start S
+S   ->   PropN[PER=?n] VP[PER=?n]
+NP[PER=?n] -> PropN[PER=?n]
+VP[PER=?n] -> PRED[PER=?n] ADJ
+
+PropN[PER=1] -> 'I'
+PropN[PER=3] -> 'she'
+PRED[PER=1] -> 'am'
+PRED[PER=3] -> 'is'
+ADJ -> 'happy'
+
+# I am happy / she is happy

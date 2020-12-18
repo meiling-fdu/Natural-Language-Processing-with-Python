@@ -1,0 +1,17 @@
+% start S
+
+    S[] -> NP[COUNT=?n] VP[COUNT=?n] | NP[COUNT=?n]
+
+    NP[COUNT=?n] -> N[COUNT=?n]
+    NP[COUNT=?n] -> Det[] N[COUNT=?n]
+    NP[COUNT='pl'] -> N[COUNT='pl']
+    VP[COUNT=?n, TENSE=?t] -> IV[COUNT=?n, TENSE=?t] | COP[] ADJ[]
+
+    Det[] -> 'The'
+    N[COUNT='less'] -> 'water' | 'Water'
+    N[COUNT='sg'] -> 'boy' | 'Boy'
+    N[COUNT='pl'] -> 'boys' | 'Boys'
+    IV[COUNT='sg', TENSE='pres'] -> 'sings'
+    IV[COUNT='pl', TENSE='pres'] -> 'sing'
+    COP[] -> 'is'
+    ADJ[] -> 'precious'

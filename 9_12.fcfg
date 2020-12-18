@@ -1,0 +1,17 @@
+% start S
+
+S -> NP VP[TENSE=?t, NUM=?n]
+
+NP -> Det NS
+
+VP[TENSE=?t, NUM=?n] -> V[SUBCAT=FO1, TENSE=?t, NUM=?n]
+VP[TENSE=?t, NUM=?n] -> V[SUBCAT=FO2, TENSE=?t, NUM=?n]
+
+VP[SUBCAT=FO1, TENSE=past, NUM=?n] -> V Det NO PREP NO
+VP[SUBCAT=FO2, TENSE=past, NUM=?n] -> V NO PREP Det NO
+
+Det -> 'The' | 'the'
+NS -> 'farmer'
+NO -> 'cart' | 'sand'
+PREP -> 'with' | 'into'
+V -> 'loaded' | 'filled' | 'dumped'

@@ -1,0 +1,31 @@
+% start S
+
+S -> N[BAR=2] VP[TENSE=?t, NUM=?n]
+N[BAR=2] -> Det N[BAR=1]
+N[BAR=1] -> N[BAR=1] P[BAR=2]
+N[BAR=1] -> N[BAR=0] P[BAR=2]
+N[BAR=1] -> N[BAR=0]
+P[BAR=2] -> PREP N[BAR=0] | PREP ADJ N[BAR=0]
+
+VP[TENSE=?t, NUM=?n] -> V[SUBCAT=intrans, TENSE=?t, NUM=?n]
+VP[TENSE=?t, NUM=?n] -> V[SUBCAT=trans, TENSE=?t, NUM=?n] NP
+VP[TENSE=?t, NUM=?n] -> V[SUBCAT=clause, TENSE=?t, NUM=?n] SBar
+SBar -> Comp S
+
+V[SUBCAT=intrans, TENSE=pres, NUM=sg] -> 'disappears' | 'walks'
+V[SUBCAT=trans, TENSE=pres, NUM=sg] -> 'sees' | 'likes'
+V[SUBCAT=clause, TENSE=pres, NUM=sg] -> 'says' | 'claims'
+
+V[SUBCAT=intrans, TENSE=pres, NUM=pl] -> 'disappear' | 'walk'
+V[SUBCAT=trans, TENSE=pres, NUM=pl] -> 'see' | 'like'
+V[SUBCAT=clause, TENSE=pres, NUM=pl] -> 'say' | 'claim'
+
+V[SUBCAT=intrans, TENSE=past, NUM=?n] -> 'disappeared' | 'walked'
+V[SUBCAT=trans, TENSE=past, NUM=?n] -> 'saw' | 'liked'
+V[SUBCAT=clause, TENSE=past, NUM=?n] -> 'said' | 'claimed'
+
+Comp -> 'that'
+PREP -> 'from' | 'with'
+Det -> 'a' | 'the'
+N[BAR=0] -> 'student' | 'France' | 'grades'
+ADJ -> 'good'

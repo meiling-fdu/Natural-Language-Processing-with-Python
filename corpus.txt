@@ -1,0 +1,5 @@
+Save some text into a file corpus.txt! Define a function load(f) that reads from
+the file named in its sole argument, and returns a string containing the text of the
+file. Can you hear me? He said,'Sure.' To-be-continued... $12.40, 2020-11-7.
+state-of-the-art Monica. While you are alone, I am there.
+What a beautiful day! Which do ypu like? We can go together.
